@@ -40,7 +40,7 @@
     "luxon": "^3.3.0",
     "nife": "^1.12.1",
     "sqlstring": "^2.3.3",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "@spothero/eslint-plugin-spothero": "github:spothero/eslint-plugin-spothero",
